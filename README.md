@@ -1,4 +1,7 @@
 # THRESHOLDING
+## EXPERIMENT NO: 8
+### NAME : AVINASH T
+### REG NO : 212223230026
 ## Aim:
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
